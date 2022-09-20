@@ -1,4 +1,4 @@
-# GitHub Classroom Collector
+# GitHub Repository Collector
 It's a simple Python script to collect all **private** repositories from a GitHub Organization. Is intended to be used for downloading all the submissions of a GitHub Classroom assignment, getting information like last commit date.
 
 ## How to use?
